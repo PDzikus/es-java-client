@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>13</java.version>
-        <log4j.version>2.13.1</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
